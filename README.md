@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando atualmente com front-end
 - 🌱 Estudando Javascript Avançado
 
-  ## Conheça alguns dos meus projetos:  
+  ## Conheça meu portifólio:  
   
   - [RocketPay](https://rocketpay-beta-olive.vercel.app/)
 
