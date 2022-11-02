@@ -5,8 +5,8 @@
 
   ## Conheça meu portifólio:  
   
-  - <a href="https://external.ink?to=/rocketpay-beta-olive.vercel.app/" target="_blank">Projeto - RocketPay</a>
-  - <a href="https://external.ink?to=/projeto-urna-eletronica-eta.vercel.app/" target="_blank">Projeto - Urna Eletrônica</a>
+  - <a href="https://rocketpay-beta-olive.vercel.app/" target="_blank">Projeto - RocketPay</a>
+  - <a href="https://projeto-urna-eletronica-eta.vercel.app/" target="_blank">Projeto - Urna Eletrônica</a>
 
 ##
 
