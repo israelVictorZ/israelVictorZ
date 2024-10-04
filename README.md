@@ -1,7 +1,7 @@
 ## Eaeee! Eu sou o Israel 
 
 - 🔭 Estou trabalhando atualmente com front-end
-- 🌱 Estudando Javascript Avançado
+- 🌱 Estudando Next.js e Tailwind
 
   ## Conheça meu portifólio:  
   
