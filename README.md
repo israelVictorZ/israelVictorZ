@@ -7,7 +7,7 @@
   
   - <a href="https://rocketpay-beta-olive.vercel.app/" target="_blank">Projeto - RocketPay</a>
   - <a href="https://projeto-urna-eletronica-eta.vercel.app/" target="_blank">Projeto - Urna Eletrônica</a>
-  - <a href="[https://projeto-urna-eletronica-eta.vercel.app/](https://projeto-pokedex-hazel.vercel.app/)" target="_blank">Projeto - Pokedex</a>
+  - <a href="https://projeto-pokedex-hazel.vercel.app/" target="_blank">Projeto - Pokedex</a>
 
 ##
 
@@ -27,7 +27,7 @@
   <img align="center" alt="Israel-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg">
   <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg">
-  <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
