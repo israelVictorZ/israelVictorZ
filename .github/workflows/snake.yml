@@ -1,0 +1,35 @@
+name: Snake
+
+# Gera a animação da cobrinha comendo o gráfico de contribuições
+# e publica os SVGs na branch `output`, que o README referencia.
+on:
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas
+  workflow_dispatch: # permite rodar manualmente pela aba Actions
+  push:
+    branches: [main]
+    paths: [.github/workflows/snake.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gerar SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#a78bfa,#7c3aed,#4c1d95
+            dist/snake-dark.svg?color_snake=#c4b5fd&color_dots=#161022,#2e1065,#5b21b6,#7c3aed,#a78bfa
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

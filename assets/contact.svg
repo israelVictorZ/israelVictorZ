@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+  <title id="t">Vamos criar algo inesquecível? Diga olá: israelvictorzangari@gmail.com</title>
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#c026d3" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#c026d3" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="20"/></clipPath>
+    <style>
+      .display{font-family:'Syne','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800}
+      .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+      .b1{animation:d1 12s ease-in-out infinite alternate}
+      .b2{animation:d2 15s ease-in-out infinite alternate}
+      @keyframes d1{to{transform:translate(260px,30px) scale(1.2)}}
+      @keyframes d2{to{transform:translate(-240px,-20px)}}
+      .arrow{animation:nudge 1.6s ease-in-out infinite}
+      @keyframes nudge{50%{transform:translateX(8px)}}
+      .outline{fill:none;stroke:#f3f0ff;stroke-width:1.4}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#07050d"/>
+    <circle class="b1" cx="300" cy="260" r="360" fill="url(#g1)"/>
+    <circle class="b2" cx="1000" cy="40" r="300" fill="url(#g2)"/>
+    <text class="mono" x="40" y="52" font-size="14" letter-spacing="3" fill="#8e87a8">( CONTATO )</text>
+    <text class="display" x="38" y="142" font-size="70" fill="#f3f0ff" textLength="620" lengthAdjust="spacingAndGlyphs">Vamos criar algo</text>
+    <text class="display outline" x="38" y="222" font-size="70" textLength="560" lengthAdjust="spacingAndGlyphs">inesquecível?</text>
+
+    <g transform="translate(740 150)">
+      <rect width="420" height="76" rx="38" fill="#f3f0ff"/>
+      <text class="mono" x="34" y="32" font-size="11" letter-spacing="2.5" fill="#4c1d95">DIGA OLÁ</text>
+      <text class="sans" x="34" y="56" font-size="17" font-weight="600" fill="#07050d">israelvictorzangari@gmail.com</text>
+      <g class="arrow">
+        <circle cx="376" cy="38" r="24" fill="#7c3aed"/>
+        <path d="M366 38h20m-7-7 7 7-7 7" fill="none" stroke="#f3f0ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <text class="mono" x="1160" y="266" font-size="13" letter-spacing="2" fill="#8e87a8" text-anchor="end">PORTUGUÊS — NATIVO · INGLÊS — B2</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="#f3f0ff" stroke-opacity=".1"/>
+</svg>

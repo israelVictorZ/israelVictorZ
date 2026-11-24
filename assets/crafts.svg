@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d">
+  <title id="t">Três ofícios, um só perfil: Front-end, UX/UI e SEO</title>
+  <desc id="d">Front-end: HTML, CSS e SCSS, JavaScript e PHP, Next.js e Tailwind, Bootstrap, Webpack, Vite e Gulp, Git, motion com GSAP e Three.js. UX/UI: interfaces no Figma, layouts responsivos, design centrado no usuário, protótipos e handoff, microinterações, design systems. SEO: SEO técnico, Core Web Vitals, HTML semântico e schema.org, metadados e Open Graph, GEO para buscas com IA, acessibilidade.</desc>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" x2="1">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="1" y="1" width="374" height="438" rx="18"/></clipPath>
+    <clipPath id="c2"><rect x="413" y="1" width="374" height="438" rx="18"/></clipPath>
+    <clipPath id="c3"><rect x="825" y="1" width="374" height="438" rx="18"/></clipPath>
+    <style>
+      .display{font-family:'Syne','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800}
+      .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+      .card{fill:#0d0a18;stroke:#f3f0ff;stroke-opacity:.1}
+      .idx{fill:#8e87a8;font-size:14px;letter-spacing:3px}
+      .title{fill:#f3f0ff;font-size:40px}
+      .tag{fill:#a59fc0;font-size:17px;font-style:italic}
+      .item{fill:#e4dff7;font-size:17px}
+      .dot{fill:#a78bfa}
+      .beam{animation:beam 6s ease-in-out infinite}
+      .b2{animation-delay:2s}.b3{animation-delay:4s}
+      @keyframes beam{0%{transform:translateX(-300px)}40%,100%{transform:translateX(420px)}}
+      .glow{animation:breathe 6s ease-in-out infinite alternate}
+      @keyframes breathe{from{opacity:.5}to{opacity:1}}
+      .in{opacity:0;animation:in .9s cubic-bezier(.2,.7,.2,1) forwards}
+      .i2{animation-delay:.15s}.i3{animation-delay:.3s}
+      @keyframes in{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}.in{opacity:1}}
+    </style>
+  </defs>
+
+  <!-- 01 Front-end -->
+  <g class="in">
+    <rect class="card" x="1" y="1" width="374" height="438" rx="18"/>
+    <g clip-path="url(#c1)">
+      <circle class="glow" cx="340" cy="30" r="150" fill="url(#glow)"/>
+      <rect class="beam" x="1" y="1" width="180" height="2" fill="url(#beam)"/>
+    </g>
+    <text class="mono idx" x="32" y="50">01 / 03</text>
+    <text class="display title" x="30" y="106">Front-end</text>
+    <text class="sans tag" x="32" y="140">Código que parece mágica —</text>
+    <text class="sans tag" x="32" y="163">e é só disciplina.</text>
+    <line x1="32" y1="188" x2="344" y2="188" stroke="#f3f0ff" stroke-opacity=".1"/>
+    <g class="sans item">
+      <circle class="dot" cx="36" cy="221" r="3"/><text x="50" y="226">HTML, CSS &amp; SCSS</text>
+      <circle class="dot" cx="36" cy="257" r="3"/><text x="50" y="262">JavaScript &amp; PHP</text>
+      <circle class="dot" cx="36" cy="293" r="3"/><text x="50" y="298">Next.js &amp; Tailwind</text>
+      <circle class="dot" cx="36" cy="329" r="3"/><text x="50" y="334">Bootstrap, Webpack, Vite, Gulp</text>
+      <circle class="dot" cx="36" cy="365" r="3"/><text x="50" y="370">Git e versionamento limpo</text>
+      <circle class="dot" cx="36" cy="401" r="3"/><text x="50" y="406">Motion com GSAP &amp; Three.js</text>
+    </g>
+  </g>
+
+  <!-- 02 UX/UI -->
+  <g class="in i2">
+    <rect class="card" x="413" y="1" width="374" height="438" rx="18"/>
+    <g clip-path="url(#c2)">
+      <circle class="glow" cx="752" cy="30" r="150" fill="url(#glow)"/>
+      <rect class="beam b2" x="413" y="1" width="180" height="2" fill="url(#beam)"/>
+    </g>
+    <text class="mono idx" x="444" y="50">02 / 03</text>
+    <text class="display title" x="442" y="106">UX / UI</text>
+    <text class="sans tag" x="444" y="140">Interfaces que as pessoas</text>
+    <text class="sans tag" x="444" y="163">entendem sem pensar.</text>
+    <line x1="444" y1="188" x2="756" y2="188" stroke="#f3f0ff" stroke-opacity=".1"/>
+    <g class="sans item">
+      <circle class="dot" cx="448" cy="221" r="3"/><text x="462" y="226">Interfaces no Figma</text>
+      <circle class="dot" cx="448" cy="257" r="3"/><text x="462" y="262">Layouts responsivos do zero</text>
+      <circle class="dot" cx="448" cy="293" r="3"/><text x="462" y="298">Design centrado no usuário</text>
+      <circle class="dot" cx="448" cy="329" r="3"/><text x="462" y="334">Protótipos e handoff</text>
+      <circle class="dot" cx="448" cy="365" r="3"/><text x="462" y="370">Microinterações e motion</text>
+      <circle class="dot" cx="448" cy="401" r="3"/><text x="462" y="406">Design systems</text>
+    </g>
+  </g>
+
+  <!-- 03 SEO -->
+  <g class="in i3">
+    <rect class="card" x="825" y="1" width="374" height="438" rx="18"/>
+    <g clip-path="url(#c3)">
+      <circle class="glow" cx="1164" cy="30" r="150" fill="url(#glow)"/>
+      <rect class="beam b3" x="825" y="1" width="180" height="2" fill="url(#beam)"/>
+    </g>
+    <text class="mono idx" x="856" y="50">03 / 03</text>
+    <text class="display title" x="854" y="106">SEO &amp; GEO</text>
+    <text class="sans tag" x="856" y="140">O melhor site do mundo não</text>
+    <text class="sans tag" x="856" y="163">serve se ninguém encontra.</text>
+    <line x1="856" y1="188" x2="1168" y2="188" stroke="#f3f0ff" stroke-opacity=".1"/>
+    <g class="sans item">
+      <circle class="dot" cx="860" cy="221" r="3"/><text x="874" y="226">SEO técnico desde a arquitetura</text>
+      <circle class="dot" cx="860" cy="257" r="3"/><text x="874" y="262">Core Web Vitals e performance</text>
+      <circle class="dot" cx="860" cy="293" r="3"/><text x="874" y="298">HTML semântico e schema.org</text>
+      <circle class="dot" cx="860" cy="329" r="3"/><text x="874" y="334">Metadados, OG e sitemaps</text>
+      <circle class="dot" cx="860" cy="365" r="3"/><text x="874" y="370">GEO: aparecer nas buscas com IA</text>
+      <circle class="dot" cx="860" cy="401" r="3"/><text x="874" y="406">Acessibilidade que ranqueia</text>
+    </g>
+  </g>
+</svg>

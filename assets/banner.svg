@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
+  <title id="t">Israel Victor — Front-end, UX/UI &amp; SEO</title>
+  <desc id="d">Banner animado com o nome Israel Victor, status disponível para novos projetos e as especialidades Front-end, UX/UI e SEO.</desc>
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4c1d95" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#4c1d95" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g3" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#c026d3" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#c026d3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#07050d"/>
+      <stop offset=".08" stop-color="#07050d" stop-opacity="0"/>
+      <stop offset=".92" stop-color="#07050d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#07050d"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#f3f0ff" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="460" rx="20"/></clipPath>
+    <style>
+      .display{font-family:'Syne','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800}
+      .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+      .muted{fill:#8e87a8}
+      .blob1{animation:drift1 14s ease-in-out infinite alternate}
+      .blob2{animation:drift2 18s ease-in-out infinite alternate}
+      .blob3{animation:drift3 11s ease-in-out infinite alternate}
+      @keyframes drift1{to{transform:translate(160px,60px) scale(1.15)}}
+      @keyframes drift2{to{transform:translate(-200px,-40px) scale(.9)}}
+      @keyframes drift3{to{transform:translate(-120px,70px)}}
+      .reveal{opacity:0;animation:reveal 1s cubic-bezier(.2,.7,.2,1) forwards}
+      .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}.d4{animation-delay:.85s}
+      @keyframes reveal{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+      .outline{fill:none;stroke:#f3f0ff;stroke-width:1.6;stroke-dasharray:2400;stroke-dashoffset:2400;animation:draw 2.6s .5s ease forwards}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      .pulse{transform-origin:512px 54px;animation:pulse 2s ease-out infinite}
+      @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.8);opacity:0}}
+      .role{opacity:0;animation:role 9s infinite}
+      .role.r2{animation-delay:3s}.role.r3{animation-delay:6s}
+      @keyframes role{0%{opacity:0;transform:translateY(14px)}5%,30%{opacity:1;transform:none}35%,100%{opacity:0;transform:translateY(-14px)}}
+      .marquee{animation:marquee 28s linear infinite}
+      @keyframes marquee{to{transform:translateX(-1500px)}}
+      @media (prefers-reduced-motion:reduce){
+        *{animation:none!important}
+        .reveal{opacity:1}.outline{stroke-dashoffset:0}.role.r1{opacity:1}
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="460" fill="#07050d"/>
+    <circle class="blob2" cx="900" cy="140" r="420" fill="url(#g2)"/>
+    <circle class="blob1" cx="380" cy="120" r="340" fill="url(#g1)"/>
+    <circle class="blob3" cx="1050" cy="330" r="260" fill="url(#g3)"/>
+    <rect width="1200" height="460" fill="url(#grid)"/>
+
+    <!-- topo -->
+    <text class="mono muted reveal d1" x="40" y="60" font-size="15" letter-spacing="3">( PORTFÓLIO — 2026 )</text>
+    <g class="reveal d1">
+      <rect x="490" y="36" width="320" height="36" rx="18" fill="#07050d" fill-opacity=".55" stroke="#f3f0ff" stroke-opacity=".14"/>
+      <circle class="pulse" cx="512" cy="54" r="5" fill="#22c55e"/>
+      <circle cx="512" cy="54" r="5" fill="#22c55e"/>
+      <text class="mono" x="528" y="59" font-size="14" letter-spacing="1.6" fill="#f3f0ff">DISPONÍVEL · NOVOS PROJETOS</text>
+    </g>
+    <text class="mono muted reveal d1" x="1160" y="60" font-size="15" letter-spacing="3" text-anchor="end">SÃO PAULO, BR</text>
+
+    <!-- nome -->
+    <text class="display reveal d2" x="36" y="222" font-size="168" fill="#f3f0ff" textLength="690" lengthAdjust="spacingAndGlyphs">ISRAEL</text>
+    <text class="display outline" x="1164" y="352" font-size="168" text-anchor="end" textLength="720" lengthAdjust="spacingAndGlyphs">VICTOR</text>
+
+    <!-- papel rotativo -->
+    <g class="reveal d3">
+      <text class="mono muted" x="40" y="276" font-size="14" letter-spacing="3">EU SOU</text>
+      <text class="sans role r1" x="40" y="318" font-size="30" font-weight="600" fill="#f3f0ff">Dev Front-end</text>
+      <text class="sans role r2" x="40" y="318" font-size="30" font-weight="600" fill="#f3f0ff">Designer UX/UI</text>
+      <text class="sans role r3" x="40" y="318" font-size="30" font-weight="600" fill="#f3f0ff">Especialista em SEO</text>
+      <text class="sans muted" x="40" y="348" font-size="17">5+ anos criando interfaces que</text>
+      <text class="sans muted" x="40" y="372" font-size="17"><tspan fill="#c4b5fd" font-style="italic">encantam, convertem</tspan> e ranqueiam.</text>
+    </g>
+
+    <!-- faixa -->
+    <g class="reveal d4">
+      <line x1="0" y1="398.5" x2="1200" y2="398.5" stroke="#f3f0ff" stroke-opacity=".12"/>
+      <g class="marquee">
+        <text class="mono" x="0" y="436" font-size="17" letter-spacing="4" fill="#f3f0ff" fill-opacity=".85" textLength="1460" lengthAdjust="spacing">FRONT-END ✦ UX/UI ✦ SEO ✦ NEXT.JS ✦ FIGMA ✦ JAVASCRIPT ✦ PHP ✦ SCSS ✦ PERFORMANCE ✦ GEO ✦ MOTION ✦</text>
+        <text class="mono" x="1500" y="436" font-size="17" letter-spacing="4" fill="#f3f0ff" fill-opacity=".85" textLength="1460" lengthAdjust="spacing">FRONT-END ✦ UX/UI ✦ SEO ✦ NEXT.JS ✦ FIGMA ✦ JAVASCRIPT ✦ PHP ✦ SCSS ✦ PERFORMANCE ✦ GEO ✦ MOTION ✦</text>
+      </g>
+      <rect y="399" width="1200" height="61" fill="url(#fade)"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="459" rx="19.5" fill="none" stroke="#f3f0ff" stroke-opacity=".1"/>
+</svg>

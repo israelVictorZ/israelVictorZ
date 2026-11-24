@@ -1,42 +1,86 @@
-## Eaeee! Eu sou o Israel 
+<a href="https://israeldev-pi.vercel.app/">
+  <img src="./assets/banner.svg" width="100%" alt="Israel Victor — Front-end, UX/UI & SEO" />
+</a>
 
-- 🔭 Estou trabalhando atualmente com front-end
-- 🌱 Estudando Next.js e Tailwind
+<p align="center">
+  <a href="https://israeldev-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-israel.dev-7c3aed?style=for-the-badge&labelColor=07050d&logo=vercel&logoColor=f3f0ff" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/israel-victor/"><img src="https://img.shields.io/badge/LinkedIn-israel--victor-7c3aed?style=for-the-badge&labelColor=07050d&logo=linkedin&logoColor=f3f0ff" alt="LinkedIn" /></a>
+  <a href="mailto:israelvictorzangari@gmail.com"><img src="https://img.shields.io/badge/E--mail-diga%20olá-7c3aed?style=for-the-badge&labelColor=07050d&logo=gmail&logoColor=f3f0ff" alt="E-mail" /></a>
+</p>
 
-  ## Conheça meu portifólio:  
-  
-  - <a href="https://rocketpay-beta-olive.vercel.app/" target="_blank">Projeto - RocketPay</a>
-  - <a href="https://projeto-urna-eletronica-eta.vercel.app/" target="_blank">Projeto - Urna Eletrônica</a>
-  - <a href="https://projeto-pokedex-hazel.vercel.app/" target="_blank">Projeto - Pokedex</a>
+<br />
 
-##
+<sub><code>( 00 — MANIFESTO )</code></sub>
 
-<br>
+> Eu desenho interfaces que as pessoas **sentem antes de entender**, escrevo o código que faz elas ganharem vida e cuido do SEO que coloca tudo isso na primeira página do Google.
+>
+> Design, código e busca: três ofícios e uma obsessão só, **experiências que ninguém esquece.**
 
-<div align="left">
-  <a href="https://github.com/israelVictorZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelVictorZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelVictorZ&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<img src="./assets/numbers.svg" width="100%" alt="5+ anos escrevendo código · 6 empresas e agências · 3 especialidades · primeiro emprego como dev aos 16" />
 
+<br />
+<br />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Israel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Israel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Israel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Israel-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg">
-  <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg">
-  <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Israel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
+<sub><code>( 01 — MINHA HISTÓRIA )</code></sub>
 
-##
+### Cinco capítulos, e o sexto está em aberto.
 
+<img src="./assets/journey.svg" width="100%" alt="Linha do tempo: Publinet (2021), OMIEXPERIENCE (2022), Bloomin Group (2023), Aprenda Certo (2025 — atual), Ideal Marketing Médico & Agência Empreenda (em paralelo) e o próximo capítulo em aberto" />
 
-<div> 
- 
- ![Snake animation](https://github.com/israelVictorZ/israelVictorZ/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Hoje cuido da evolução da plataforma de cursos corporativos **Boompe**, na **Aprenda Certo**, lado a lado com back-end e QA. Em paralelo, crio landing pages e sites de alta conversão para a **Ideal Marketing Médico** e a **Agência Empreenda**, com SEO on-page, **GEO** (otimização para buscas com IA) e Core Web Vitals sempre no verde.
+
+<br />
+
+<sub><code>( 02 — LAYOUTS )</code></sub>
+
+### Telas que eu desenhei e dei vida.
+
+<a href="https://israeldev-pi.vercel.app/#layouts">
+  <img src="./assets/layouts.svg" width="100%" alt="Layouts autorais: Keap Staff, Mix Combustão, BipCare, Pedro de Lima, Ideal Marketing Médico, SS Advogadas, Alliance Rolamentos e Estética" />
+</a>
+
+Do wireframe ao pixel final no Figma, pensados para converter e para ranquear. **[Ver todos os layouts no portfólio →](https://israeldev-pi.vercel.app/#layouts)**
+
+<br />
+
+<sub><code>( 03 — O QUE EU FAÇO )</code></sub>
+
+### Três ofícios, um só perfil.
+
+<img src="./assets/crafts.svg" width="100%" alt="Front-end, UX/UI e SEO & GEO" />
+
+<br />
+
+<sub><code>( 04 — STACK )</code></sub>
+
+### Ferramentas do dia a dia.
+
+<a href="https://israeldev-pi.vercel.app/#skills">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,php,react,nextjs,tailwind,bootstrap,wordpress,vite,webpack,nodejs,threejs,git,figma&perline=8&theme=dark" alt="HTML, CSS, Sass, JavaScript, PHP, React, Next.js, Tailwind, Bootstrap, WordPress, Vite, Webpack, Node.js, Three.js, Git e Figma" />
+</a>
+
+<sub>+ GSAP, Lenis, Gulp, Elementor, Google Analytics e Search Console</sub>
+
+<br />
+<br />
+
+<sub><code>( 05 — CONTRIBUIÇÕES )</code></sub>
+
+### O que eu ando commitando.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsraelVictorZ/IsraelVictorZ/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsraelVictorZ/IsraelVictorZ/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/IsraelVictorZ/IsraelVictorZ/output/snake-dark.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições" />
+</picture>
+
+<br />
+<br />
+
+<a href="mailto:israelvictorzangari@gmail.com">
+  <img src="./assets/contact.svg" width="100%" alt="Vamos criar algo inesquecível? Diga olá: israelvictorzangari@gmail.com" />
+</a>
+
+<p align="center">
+  <sub>Banners em SVG animados à mão, com a mesma identidade do <a href="https://israeldev-pi.vercel.app/">israel.dev</a> ✦ feito em São Paulo</sub>
+</p>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="t">
+  <title id="t">Em números: 5+ anos escrevendo código, 6 empresas e agências, 3 especialidades, primeiro emprego como dev aos 16 anos.</title>
+  <defs>
+    <linearGradient id="num" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3f0ff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .display{font-family:'Syne','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800}
+      .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+      .col{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+      .c2{animation-delay:.15s}.c3{animation-delay:.3s}.c4{animation-delay:.45s}
+      @keyframes up{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:none}}
+      @media (prefers-reduced-motion:reduce){.col{animation:none;opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="180" rx="20" fill="#07050d"/>
+  <rect x=".5" y=".5" width="1199" height="179" rx="19.5" fill="none" stroke="#f3f0ff" stroke-opacity=".1"/>
+  <g stroke="#f3f0ff" stroke-opacity=".1">
+    <line x1="300" y1="32" x2="300" y2="148"/><line x1="600" y1="32" x2="600" y2="148"/><line x1="900" y1="32" x2="900" y2="148"/>
+  </g>
+
+  <g class="col c1">
+    <text class="display" x="44" y="104" font-size="76" fill="url(#num)">5+</text>
+    <text class="sans" x="46" y="142" font-size="19" fill="#8e87a8">anos escrevendo código</text>
+  </g>
+  <g class="col c2">
+    <text class="display" x="344" y="104" font-size="76" fill="url(#num)">6</text>
+    <text class="sans" x="346" y="142" font-size="19" fill="#8e87a8">empresas e agências</text>
+  </g>
+  <g class="col c3">
+    <text class="display" x="644" y="104" font-size="76" fill="url(#num)">3</text>
+    <text class="sans" x="646" y="142" font-size="19" fill="#8e87a8">Front-end, UX/UI e SEO</text>
+  </g>
+  <g class="col c4">
+    <text class="display" x="944" y="104" font-size="76" fill="url(#num)">16</text>
+    <text class="sans" x="946" y="142" font-size="19" fill="#8e87a8">anos no 1º emprego de dev</text>
+  </g>
+</svg>

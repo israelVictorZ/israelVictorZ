@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">Telas que eu desenhei e dei vida</title>
+  <desc id="d">Layouts autorais criados no Figma e desenvolvidos: Keap Staff, Mix Combustão, BipCare, Pedro de Lima, Ideal Marketing Médico, SS Advogadas, Alliance Rolamentos e Estética.</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#07050d"/>
+      <stop offset=".1" stop-color="#07050d" stop-opacity="0"/>
+      <stop offset=".9" stop-color="#07050d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#07050d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="260" rx="20"/></clipPath>
+    <style>
+      .display{font-family:'Syne','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+      .left{animation:left 40s linear infinite}
+      .right{animation:right 40s linear infinite}
+      @keyframes left{from{transform:translateX(0)}to{transform:translateX(-2200px)}}
+      @keyframes right{from{transform:translateX(-2200px)}to{transform:translateX(0)}}
+      .solid{fill:#f3f0ff}
+      .stroke{fill:none;stroke:#f3f0ff;stroke-opacity:.6;stroke-width:1.2}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="#07050d"/>
+    <ellipse cx="600" cy="130" rx="520" ry="180" fill="url(#glow)"/>
+    <text class="mono" x="40" y="44" font-size="14" letter-spacing="3" fill="#8e87a8">( LAYOUTS AUTORAIS · FIGMA → CÓDIGO )</text>
+    <text class="mono" x="1160" y="44" font-size="14" letter-spacing="3" fill="#8e87a8" text-anchor="end">08 PROJETOS</text>
+
+    <g class="left">
+      <text class="display solid" x="0" y="128" font-size="58" textLength="2160" lengthAdjust="spacing">Keap Staff ✦ Mix Combustão ✦ BipCare ✦ Pedro de Lima ✦</text>
+      <text class="display solid" x="2200" y="128" font-size="58" textLength="2160" lengthAdjust="spacing">Keap Staff ✦ Mix Combustão ✦ BipCare ✦ Pedro de Lima ✦</text>
+    </g>
+    <g class="right">
+      <text class="display stroke" x="0" y="206" font-size="58" textLength="2160" lengthAdjust="spacing">Ideal Marketing Médico ✦ SS Advogadas ✦ Alliance Rolamentos ✦ Estética ✦</text>
+      <text class="display stroke" x="2200" y="206" font-size="58" textLength="2160" lengthAdjust="spacing">Ideal Marketing Médico ✦ SS Advogadas ✦ Alliance Rolamentos ✦ Estética ✦</text>
+    </g>
+    <rect width="1200" height="260" fill="url(#fade)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="259" rx="19.5" fill="none" stroke="#f3f0ff" stroke-opacity=".1"/>
+</svg>
