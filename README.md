@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://israeldev-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-israel.dev-7c3aed?style=for-the-badge&labelColor=07050d&logo=vercel&logoColor=f3f0ff" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/israel-victor/"><img src="https://img.shields.io/badge/LinkedIn-israel--victor-7c3aed?style=for-the-badge&labelColor=07050d&logo=linkedin&logoColor=f3f0ff" alt="LinkedIn" /></a>
-  <a href="mailto:israelvictorzangari@gmail.com"><img src="https://img.shields.io/badge/E--mail-diga%20olá-7c3aed?style=for-the-badge&labelColor=07050d&logo=gmail&logoColor=f3f0ff" alt="E-mail" /></a>
+  <a href="https://israeldev-pi.vercel.app/"><img src="./assets/link-portfolio.svg" height="48" alt="Portfólio: israeldev-pi.vercel.app" /></a>
+  <a href="https://www.linkedin.com/in/israel-victor/"><img src="./assets/link-linkedin.svg" height="48" alt="LinkedIn: in/israel-victor" /></a>
+  <a href="mailto:israelvictorzangari@gmail.com"><img src="./assets/link-email.svg" height="48" alt="E-mail: israelvictorzangari@gmail.com" /></a>
 </p>
 
 <br />
@@ -23,9 +23,9 @@
 
 <sub><code>( 01 — MINHA HISTÓRIA )</code></sub>
 
-### Cinco capítulos, e o sexto está em aberto.
+### Cinco capítulos, mais de cinco anos.
 
-<img src="./assets/journey.svg" width="100%" alt="Linha do tempo: Publinet (2021), OMIEXPERIENCE (2022), Bloomin Group (2023), Aprenda Certo (2025 — atual), Ideal Marketing Médico & Agência Empreenda (em paralelo) e o próximo capítulo em aberto" />
+<img src="./assets/journey.svg" width="100%" alt="Linha do tempo: Publinet (2021), OMIEXPERIENCE (2022), Bloomin Group (2023), Aprenda Certo (2025 — atual), Ideal Marketing Médico & Agência Empreenda (em paralelo)" />
 
 Hoje cuido da evolução da plataforma de cursos corporativos **Boompe**, na **Aprenda Certo**, lado a lado com back-end e QA. Em paralelo, crio landing pages e sites de alta conversão para a **Ideal Marketing Médico** e a **Agência Empreenda**, com SEO on-page, **GEO** (otimização para buscas com IA) e Core Web Vitals sempre no verde.
 

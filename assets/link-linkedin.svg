@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="64" viewBox="0 0 252 64" role="img" aria-label="LinkedIn: in/israel-victor">
+  <title>LinkedIn: in/israel-victor</title>
+  <defs><style>
+    .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .arrow{animation:nudge 1.8s ease-in-out infinite}
+    @keyframes nudge{50%{transform:translateX(4px)}}
+    @media (prefers-reduced-motion:reduce){.arrow{animation:none}}
+  </style></defs>
+  <rect x=".75" y=".75" width="250.5" height="62.5" rx="31.25" fill="#0d0a18" stroke="#a78bfa" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="21" fill="#7c3aed"/>
+  <g transform="translate(32 32)"><rect x="-9" y="-9" width="18" height="18" rx="3.5" fill="#f3f0ff"/><rect x="-5.6" y="-1.6" width="2.6" height="7.4" fill="#7c3aed"/><circle cx="-4.3" cy="-4.6" r="1.6" fill="#7c3aed"/><path d="M-0.8-1.6h2.5v1.1c.5-.8 1.4-1.3 2.6-1.3 2 0 2.9 1.2 2.9 3.4v4.2H4.6V2.1c0-1-.4-1.6-1.3-1.6-.9 0-1.4.6-1.4 1.6v3.7H-.8z" fill="#7c3aed"/></g>
+  <text class="mono" x="64" y="27" font-size="11" letter-spacing="2.2" fill="#8e87a8">LINKEDIN</text>
+  <text class="sans" x="64" y="46" font-size="16" font-weight="600" fill="#f3f0ff">in/israel-victor</text>
+  <path class="arrow" d="M216 32h12m-5-5 5 5-5 5" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

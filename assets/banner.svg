@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
   <title id="t">Israel Victor — Front-end, UX/UI &amp; SEO</title>
-  <desc id="d">Banner animado com o nome Israel Victor, status disponível para novos projetos e as especialidades Front-end, UX/UI e SEO.</desc>
+  <desc id="d">Banner animado com o nome Israel Victor e as especialidades Front-end, UX/UI e SEO.</desc>
   <defs>
     <radialGradient id="g1" cx="50%" cy="50%" r="50%">
       <stop offset="0" stop-color="#7c3aed" stop-opacity=".75"/>
@@ -40,8 +40,6 @@
       @keyframes reveal{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
       .outline{fill:none;stroke:#f3f0ff;stroke-width:1.6;stroke-dasharray:2400;stroke-dashoffset:2400;animation:draw 2.6s .5s ease forwards}
       @keyframes draw{to{stroke-dashoffset:0}}
-      .pulse{transform-origin:512px 54px;animation:pulse 2s ease-out infinite}
-      @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.8);opacity:0}}
       .role{opacity:0;animation:role 9s infinite}
       .role.r2{animation-delay:3s}.role.r3{animation-delay:6s}
       @keyframes role{0%{opacity:0;transform:translateY(14px)}5%,30%{opacity:1;transform:none}35%,100%{opacity:0;transform:translateY(-14px)}}
@@ -63,12 +61,6 @@
 
     <!-- topo -->
     <text class="mono muted reveal d1" x="40" y="60" font-size="15" letter-spacing="3">( PORTFÓLIO — 2026 )</text>
-    <g class="reveal d1">
-      <rect x="490" y="36" width="320" height="36" rx="18" fill="#07050d" fill-opacity=".55" stroke="#f3f0ff" stroke-opacity=".14"/>
-      <circle class="pulse" cx="512" cy="54" r="5" fill="#22c55e"/>
-      <circle cx="512" cy="54" r="5" fill="#22c55e"/>
-      <text class="mono" x="528" y="59" font-size="14" letter-spacing="1.6" fill="#f3f0ff">DISPONÍVEL · NOVOS PROJETOS</text>
-    </g>
     <text class="mono muted reveal d1" x="1160" y="60" font-size="15" letter-spacing="3" text-anchor="end">SÃO PAULO, BR</text>
 
     <!-- nome -->

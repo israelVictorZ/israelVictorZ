@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312" height="64" viewBox="0 0 312 64" role="img" aria-label="Portfólio: israeldev-pi.vercel.app">
+  <title>Portfólio: israeldev-pi.vercel.app</title>
+  <defs><style>
+    .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .arrow{animation:nudge 1.8s ease-in-out infinite}
+    @keyframes nudge{50%{transform:translateX(4px)}}
+    @media (prefers-reduced-motion:reduce){.arrow{animation:none}}
+  </style></defs>
+  <rect x=".75" y=".75" width="310.5" height="62.5" rx="31.25" fill="#0d0a18" stroke="#a78bfa" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="21" fill="#7c3aed"/>
+  <g transform="translate(32 32)"><circle cx="0" cy="0" r="9" fill="none" stroke="#f3f0ff" stroke-width="1.8"/><ellipse cx="0" cy="0" rx="4" ry="9" fill="none" stroke="#f3f0ff" stroke-width="1.6"/><path d="M-9 0h18M-7.6-4.5h15.2M-7.6 4.5h15.2" stroke="#f3f0ff" stroke-width="1.4"/></g>
+  <text class="mono" x="64" y="27" font-size="11" letter-spacing="2.2" fill="#8e87a8">PORTFÓLIO</text>
+  <text class="sans" x="64" y="46" font-size="16" font-weight="600" fill="#f3f0ff">israeldev-pi.vercel.app</text>
+  <path class="arrow" d="M276 32h12m-5-5 5 5-5 5" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

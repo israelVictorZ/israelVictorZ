@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="64" viewBox="0 0 196 64" role="img" aria-label="E-mail: Diga olá">
+  <title>E-mail: Diga olá</title>
+  <defs><style>
+    .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .arrow{animation:nudge 1.8s ease-in-out infinite}
+    @keyframes nudge{50%{transform:translateX(4px)}}
+    @media (prefers-reduced-motion:reduce){.arrow{animation:none}}
+  </style></defs>
+  <rect x=".75" y=".75" width="194.5" height="62.5" rx="31.25" fill="#0d0a18" stroke="#a78bfa" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="21" fill="#7c3aed"/>
+  <g transform="translate(32 32)"><rect x="-9.5" y="-7" width="19" height="14" rx="2.5" fill="none" stroke="#f3f0ff" stroke-width="1.8"/><path d="M-8.5-5.5 0 1l8.5-6.5" fill="none" stroke="#f3f0ff" stroke-width="1.8" stroke-linejoin="round"/></g>
+  <text class="mono" x="64" y="27" font-size="11" letter-spacing="2.2" fill="#8e87a8">E-MAIL</text>
+  <text class="sans" x="64" y="46" font-size="16" font-weight="600" fill="#f3f0ff">Diga olá</text>
+  <path class="arrow" d="M160 32h12m-5-5 5 5-5 5" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
